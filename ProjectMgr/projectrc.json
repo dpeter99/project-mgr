@@ -1,0 +1,12 @@
+{
+    "project-types": {
+        "types": [
+            {
+                "Name": "Test",
+                "Path": "~/Docs"
+            }
+        ]
+    }
+
+
+}
